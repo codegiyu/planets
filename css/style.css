@@ -1,0 +1,111 @@
+main {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url("../img/background.jpg");
+}
+
+.system-wrap {
+    right: 5vw;
+}
+
+.border-secondary {
+    border-color: rgb(95, 95, 95) !important;
+}
+
+.border-currentcolor {
+    border-color: currentColor;
+}
+
+.neptune-axis {
+    width: 215vw;
+}
+
+.uranus-axis {
+    width: 205vw;
+}
+
+.saturn-axis {
+    width: 180vw;
+}
+
+.jupiter-axis {
+    width: 145vw;
+}
+
+.mars-axis {
+    width: 115vw;
+}
+
+.earth-axis {
+    width: 90vw;
+}
+
+.venus-axis {
+    width: 80vw;
+}
+
+.mercury-axis {
+    width: 70vw;
+}
+
+.sun {
+    width: 50vw;
+    background: orangered;
+}
+
+.Mercury {
+    width: 3vw;
+    height: 3vw;
+    left: 92.3%;
+    top: 25%;
+}
+
+.Venus {
+    width: 4vw;
+    height: 4vw;
+    left: 95.7%;
+    top: 60%;
+}
+
+.Earth {
+    width: 5vw;
+    height: 5vw;
+    left: 92%;
+    top: 25%;
+}
+
+.Mars {
+    width: 5.5vw;
+    height: 5.5vw;
+    left: 96%;
+    top: 35%;
+}
+
+.Jupiter {
+    width: 18vw;
+    height: 18vw;
+    left: 93%;
+    top: 50%;
+}
+
+.Saturn {
+    width: 12vw;
+    height: 12vw;
+    left: 95.8%;
+    top: 38%;
+}
+
+.Uranus {
+    width: 8vw;
+    height: 8vw;
+    left: 98%;
+    top: 50%;
+}
+
+.Neptune {
+    width: 6vw;
+    height: 6vw;
+    left: 98.3%;
+    top: 55%;
+}
